@@ -1,0 +1,1829 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\css\\sb-admin-2.css",
+      "PackagePath": "staticwebassets\\admin\\css\\sb-admin-2.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\css\\sb-admin-2.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\img\\undraw_posting_photo.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_posting_photo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\img\\undraw_profile.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_profile.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\img\\undraw_profile_1.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_profile_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\img\\undraw_profile_2.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_profile_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\img\\undraw_profile_3.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_profile_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\img\\undraw_rocket.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\undraw_rocket.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\js\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\js\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\js\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\js\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\js\\sb-admin-2.js",
+      "PackagePath": "staticwebassets\\admin\\js\\sb-admin-2.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\js\\sb-admin-2.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\_charts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\_error.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_error.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\_global.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_global.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\_login.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_login.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\_navs.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\navs\\_global.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\navs\\_global.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\navs\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\navs\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\navs\\_topbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\navs\\_topbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\sb-admin-2.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\sb-admin-2.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\utilities\\_animation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\utilities\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\utilities\\_border.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\utilities\\_border.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\utilities\\_progress.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\utilities\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\utilities\\_rotate.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\utilities\\_rotate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\chart.js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chart.js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\datatables\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\datatables\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\datatables\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\datatables\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\datatables\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\datatables\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\datatables\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\datatables\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\attribution.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\attribution.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\js\\all.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\js\\brands.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\js\\brands.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\js\\brands.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\js\\fontawesome.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\js\\regular.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\js\\regular.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\js\\regular.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\js\\solid.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\js\\solid.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\js\\solid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\js\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\_animated.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\_animated.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\_bordered-pulled.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\_bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\_core.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\_core.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\_fixed-width.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\_fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\_icons.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\_icons.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\_larger.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\_larger.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\_list.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\_list.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\_mixins.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\_mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\_rotated-flipped.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\_rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\_screen-reader.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\_screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\_shims.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\_shims.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\_stacked.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\_stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\_variables.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\_variables.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\brands.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\brands.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\fontawesome.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\fontawesome.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\regular.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\regular.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\solid.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\solid.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\less\\v4-shims.less",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\less\\v4-shims.less"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\metadata\\categories.yml",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\metadata\\categories.yml"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\metadata\\icons.yml",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\metadata\\icons.yml"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\metadata\\shims.yml",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\metadata\\shims.yml"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\metadata\\sponsors.yml",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\metadata\\sponsors.yml"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\package.json",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\_shims.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\_shims.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\brands.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\brands.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\fontawesome.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\fontawesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\regular.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\regular.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\solid.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\solid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\scss\\v4-shims.scss",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\scss\\v4-shims.scss"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\sprites\\brands.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\sprites\\regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\sprites\\solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\ad.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\ad.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\address-book.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\address-book.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\address-card.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\address-card.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\adjust.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\adjust.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\air-freshener.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\air-freshener.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\align-center.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\align-center.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\align-justify.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\align-justify.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\align-left.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\align-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\align-right.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\align-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\allergies.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\allergies.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\ambulance.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\ambulance.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\american-sign-language-interpreting.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\american-sign-language-interpreting.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\anchor.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\anchor.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angle-double-down.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angle-double-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angle-double-left.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angle-double-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angle-double-right.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angle-double-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angle-double-up.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angle-double-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angle-down.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angle-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angle-left.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angle-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angle-right.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angle-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angle-up.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angle-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angry.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\angry.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\ankh.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\ankh.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\apple-alt.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\apple-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\archive.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\archive.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\archway.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\archway.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-alt-circle-down.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-alt-circle-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-alt-circle-left.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-alt-circle-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-alt-circle-right.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-alt-circle-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-alt-circle-up.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-alt-circle-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-circle-down.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-circle-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-circle-left.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-circle-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-circle-right.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-circle-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-circle-up.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-circle-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-down.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-up.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrow-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrows-alt-h.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrows-alt-h.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrows-alt-v.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrows-alt-v.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrows-alt.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\arrows-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\assistive-listening-systems.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\assistive-listening-systems.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\asterisk.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\asterisk.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\at.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\at.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\atlas.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\atlas.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\atom.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\atom.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\audio-description.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\audio-description.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\award.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\award.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\baby-carriage.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\baby-carriage.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\baby.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\baby.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\backspace.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\backspace.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\backward.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\backward.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bacon.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bacon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bacteria.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bacteria.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bacterium.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bacterium.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bahai.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bahai.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\balance-scale-left.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\balance-scale-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\balance-scale-right.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\balance-scale-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\balance-scale.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\balance-scale.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\ban.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\ban.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\band-aid.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\band-aid.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\barcode.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\barcode.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bars.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bars.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\baseball-ball.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\baseball-ball.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\basketball-ball.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\basketball-ball.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bath.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bath.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\battery-empty.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\battery-empty.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\battery-full.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\battery-full.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\battery-half.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\battery-half.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\battery-quarter.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\battery-quarter.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\battery-three-quarters.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\battery-three-quarters.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bed.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bed.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\beer.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\beer.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bell-slash.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bell-slash.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bell.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bell.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bezier-curve.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bezier-curve.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bible.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bible.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bicycle.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bicycle.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\biking.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\biking.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\binoculars.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\binoculars.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\biohazard.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\biohazard.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\birthday-cake.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\birthday-cake.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\blender-phone.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\blender-phone.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\blender.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\blender.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\blind.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\blind.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\blog.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\blog.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bold.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bold.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bolt.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bolt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bomb.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bomb.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bone.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bone.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bong.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bong.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\book-dead.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\book-dead.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\book-medical.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\book-medical.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\book-open.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\book-open.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\book-reader.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\book-reader.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\book.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\book.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bookmark.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bookmark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\border-all.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\border-all.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\border-none.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\border-none.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\border-style.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\border-style.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bowling-ball.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bowling-ball.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\box-open.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\box-open.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\box-tissue.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\box-tissue.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\box.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\box.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\boxes.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\boxes.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\braille.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\braille.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\brain.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\brain.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bread-slice.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bread-slice.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\briefcase-medical.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\briefcase-medical.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\briefcase.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\briefcase.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\broadcast-tower.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\broadcast-tower.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\broom.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\broom.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\brush.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\brush.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bug.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bug.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\building.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\building.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bullhorn.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bullhorn.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bullseye.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bullseye.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\burn.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\burn.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bus-alt.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bus-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bus.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\bus.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\business-time.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\business-time.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calculator.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calculator.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calendar-alt.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calendar-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calendar-check.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calendar-check.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calendar-day.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calendar-day.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calendar-minus.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calendar-minus.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calendar-plus.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calendar-plus.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calendar-times.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calendar-times.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calendar-week.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calendar-week.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calendar.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\calendar.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\camera-retro.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\camera-retro.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\camera.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\camera.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\campground.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\campground.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\candy-cane.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\candy-cane.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\cannabis.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\cannabis.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\capsules.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\capsules.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\car-alt.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\car-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\car-battery.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\car-battery.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\car-crash.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\car-crash.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\car-side.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\car-side.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\car.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\car.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caravan.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caravan.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caret-down.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caret-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caret-left.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caret-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caret-right.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caret-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caret-square-down.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caret-square-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caret-square-left.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caret-square-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caret-square-right.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caret-square-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caret-square-up.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caret-square-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caret-up.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\caret-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\carrot.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\carrot.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\cart-arrow-down.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\cart-arrow-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\cart-plus.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\cart-plus.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\cash-register.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\cash-register.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\cat.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\cat.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\certificate.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\certificate.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\chair.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\chair.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\chalkboard-teacher.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\chalkboard-teacher.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\chalkboard.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\chalkboard.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\charging-station.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\charging-station.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\svgs\\solid\\chart-area.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\svgs\\solid\\chart-area.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\jquery-easing\\jquery.easing.compatibility.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery-easing\\jquery.easing.compatibility.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\jquery-easing\\jquery.easing.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery-easing\\jquery.easing.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\jquery-easing\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery-easing\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\admin\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\admin\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\css\\tooplate-wave-cafe.css",
+      "PackagePath": "staticwebassets\\css\\tooplate-wave-cafe.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\fontawesome\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\about-1.png",
+      "PackagePath": "staticwebassets\\img\\about-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\about-2.png",
+      "PackagePath": "staticwebassets\\img\\about-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\bulaqsuyu.jpg",
+      "PackagePath": "staticwebassets\\img\\bulaqsuyu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\cocacola.jpg",
+      "PackagePath": "staticwebassets\\img\\cocacola.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\cofe.jpg",
+      "PackagePath": "staticwebassets\\img\\cofe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\fruitj1.jpg",
+      "PackagePath": "staticwebassets\\img\\fruitj1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\fruitj2.jpg",
+      "PackagePath": "staticwebassets\\img\\fruitj2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\fruitj3.jpg",
+      "PackagePath": "staticwebassets\\img\\fruitj3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\hot-americano.png",
+      "PackagePath": "staticwebassets\\img\\hot-americano.png"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\hot-cappuccino.png",
+      "PackagePath": "staticwebassets\\img\\hot-cappuccino.png"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\hot-espresso.png",
+      "PackagePath": "staticwebassets\\img\\hot-espresso.png"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\hot-latte.png",
+      "PackagePath": "staticwebassets\\img\\hot-latte.png"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\iced-americano.png",
+      "PackagePath": "staticwebassets\\img\\iced-americano.png"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\iced-cappuccino.png",
+      "PackagePath": "staticwebassets\\img\\iced-cappuccino.png"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\iced-espresso.png",
+      "PackagePath": "staticwebassets\\img\\iced-espresso.png"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\iced-latte.png",
+      "PackagePath": "staticwebassets\\img\\iced-latte.png"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\samovar.jpg",
+      "PackagePath": "staticwebassets\\img\\samovar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\smoothie-1.png",
+      "PackagePath": "staticwebassets\\img\\smoothie-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\smoothie-2.png",
+      "PackagePath": "staticwebassets\\img\\smoothie-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\smoothie-3.png",
+      "PackagePath": "staticwebassets\\img\\smoothie-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\smoothie-4.png",
+      "PackagePath": "staticwebassets\\img\\smoothie-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\special-01.jpg",
+      "PackagePath": "staticwebassets\\img\\special-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\special-02.jpg",
+      "PackagePath": "staticwebassets\\img\\special-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\special-03.jpg",
+      "PackagePath": "staticwebassets\\img\\special-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\special-04.jpg",
+      "PackagePath": "staticwebassets\\img\\special-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\special-05.jpg",
+      "PackagePath": "staticwebassets\\img\\special-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\img\\special-06.jpg",
+      "PackagePath": "staticwebassets\\img\\special-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ulvir\\OneDrive\\Desktop\\WaveCafe\\WaveCafe\\wwwroot\\video\\wave-cafe-video-bg.mp4",
+      "PackagePath": "staticwebassets\\video\\wave-cafe-video-bg.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WaveCafe.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WaveCafe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WaveCafe.props",
+      "PackagePath": "build\\WaveCafe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WaveCafe.props",
+      "PackagePath": "buildMultiTargeting\\WaveCafe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WaveCafe.props",
+      "PackagePath": "buildTransitive\\WaveCafe.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
